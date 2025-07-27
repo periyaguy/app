@@ -1,0 +1,12 @@
+{
+  "name": "azure-node-free-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for Azure App Service (Free Tier)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
